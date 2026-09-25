@@ -233,18 +233,6 @@ id,x,y,demand
 - [ ] Çoklu depo desteği (Multi-Depot VRP)
 - [ ] Paralel/çok işlemcili GA popülasyon değerlendirmesi
 
-## 🤝 Katkıda Bulunma
-
-Katkılar memnuniyetle karşılanır:
-
-1. Bu repoyu fork'layın
-2. Yeni bir branch açın (`git checkout -b ozellik/yeni-algoritma`)
-3. Değişikliklerinizi yapın ve test ekleyin
-4. `pytest tests/` ile tüm testlerin geçtiğini doğrulayın
-5. Pull request açın
-
-Yeni bir algoritma eklerken `algorithms/` klasöründeki mevcut modüllerin
-imzasını (mesafe matrisi girdisi, tur/liste çıktısı) takip etmeniz önerilir.
 
 ## 📄 Lisans
 
