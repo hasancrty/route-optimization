@@ -253,4 +253,4 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 ---
 
 <p align="center">Sezgisel optimizasyon algoritmalarını öğrenmek ve gerçek
-projelerde kullanmak isteyenler için ❤️ ile hazırlanmıştır.</p>
+projelerde kullanmak isteyenler için hazırlanmıştır.</p>
